@@ -18,3 +18,4 @@ Thanks to the [kappa.lol](https://kappa.lol/) website and for their awesome API,
 * Make sure that your Telegram.exe file is updated.
 
 # Preview
+![](https://github.com/qwerzxcqwe/telegramstealer/blob/main/preview.gif)
