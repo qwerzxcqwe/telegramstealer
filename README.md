@@ -15,7 +15,7 @@ Thanks to the [kappa.lol](https://kappa.lol/) website and for their awesome API,
 # Notes
 * Script saving only needed folders and cutting off folders that don't contain user session files;
 * After downloading .zip file from kappa you need to put it into folder and name it tdata, next step is dropping tdata folder somewhere with Telegram.exe file and start it;
-* Make sure that your Telegram.exe file is updated.
+* Make sure that your Telegram.exe file is updated!
 
 # Preview
 ![](https://github.com/qwerzxcqwe/telegramstealer/blob/main/preview.gif)
